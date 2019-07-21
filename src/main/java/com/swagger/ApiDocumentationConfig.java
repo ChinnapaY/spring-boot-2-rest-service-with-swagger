@@ -12,9 +12,9 @@ import io.swagger.annotations.SwaggerDefinition;
                 version = "V12.0.12",
                 title = "Awesome Resource API",
                 contact = @Contact(
-                   name = "Ranga Karanam", 
-                   email = "ranga.karanam@in28minutes.com", 
-                   url = "http://www.in28minutes.com"
+                   name = "Chinnapa Y", 
+                   email = "y.chinnapa@yahoo.com", 
+                   url = "http://www.gmail.com"
                 ),
                 license = @License(
                    name = "Apache 2.0", 
